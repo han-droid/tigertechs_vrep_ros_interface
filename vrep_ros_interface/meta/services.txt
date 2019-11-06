@@ -7,3 +7,4 @@ std_srvs/Trigger
 kortex_driver/SendTwistCommand
 kortex_driver/SendGripperCommand
 kortex_driver/PlayCartesianTrajectory
+balance/StartBalance
